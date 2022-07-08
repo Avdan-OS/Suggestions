@@ -1,7 +1,7 @@
 ---
 name: Feature Request - AvdanOS
 about: Suggest an idea for AvdanOS
-title: "[AvdamOS] - [Title] "
+title: "[AvdanOS] - [Title] "
 labels: AvdanOS, enhancement
 assignees: ''
 
