@@ -1,8 +1,8 @@
 ---
 name: Feature request
-about: Suggest an idea for AvdanOS
-title: "[AvdanOS] - [Title] "
-labels: AvdanOS, enhancement
+about: Suggest an idea for the website
+title: ''
+labels: enhancement, Website
 assignees: ''
 
 ---
