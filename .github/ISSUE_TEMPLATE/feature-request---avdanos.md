@@ -1,7 +1,7 @@
 ---
 name: Feature Request - AvdanOS
 about: Suggest an idea for AvdanOS
-title: "[AvdamOS] - [Title] "
+title: "[AvdanOS] - [Title] "
 labels: AvdanOS, enhancement
 assignees: ''
 
@@ -22,5 +22,5 @@ Add any other context or screenshots about the feature request here.
 
 **Add X to say yes**
 You have checked that this feature does not currently exist - []
-You have checked that this feature is not currently in a open/closed issue on this repo- []
+You have checked that this feature is not currently in a open/closed issue on this repo - []
 You have checked that this feature is not planned on the roadmap (https://github.com/orgs/Avdan-OS/projects/9) - []
